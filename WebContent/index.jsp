@@ -10,6 +10,9 @@
 <body>
 	<header> 여거는 헤더입니다.
 	</header>
+	<div>
+	 아오 세팅
+	</div>
 	<article> 여거는 본문입니다.
 	</article>
 	<footer> 여거는 푸터입니다.

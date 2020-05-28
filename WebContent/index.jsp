@@ -8,8 +8,9 @@
 <title>알파 홈페이지</title>
 </head>
 <body>
+<<<<<<< HEAD
 	<header> 여거는 헤더입니다.
-	</header>
+
 	<div>
 	 아오 세팅  다시다시다시
 	 

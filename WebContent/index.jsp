@@ -8,11 +8,11 @@
 <title>알파 홈페이지</title>
 </head>
 <body>
-	<header>
+	<header> 여거는 헤더입니다.
 	</header>
-	<article>
+	<article> 여거는 본문입니다.
 	</article>
-	<footer>
+	<footer> 여거는 푸터입니다.
 	</footer>
 </body>
 </html>
